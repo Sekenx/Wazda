@@ -6,8 +6,4 @@ public class HelloWorld {
 
     }
 
-    public int add(int x, int y){
-
-        return 12;
-    }
 }
