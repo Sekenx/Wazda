@@ -5,7 +5,7 @@ import static junit.framework.TestCase.assertTrue;
 
 public class HelloWorldTest {
 
-    HelloWorld testee = new HelloWorld();
+    private HelloWorld testee = new HelloWorld();
 
     @Test
     public void shouldAnswerWithTrue(){
